@@ -1,0 +1,191 @@
+﻿<shop version="2.0" date="2026-05-28 19:00:49">
+	<company>ОАО "Центро-клиник Мультимед"</company>
+	<name>Буба</name>
+	<url>http:83.146.94.112:46080</url>
+	<picture>https://img.freepik.com/free-vector/bakery-background-with-sweets-bread_23-2147785316.jpg?ga=GA1.1.905762259.1770351748&amp;semt=ais_hybrid&amp;w=740&amp;q=80</picture>
+	<email>бибки@gmail.com</email>
+	<doctors>
+		<doctor id="Test_ID">
+			<internal_id>ac30e13a-3087-11dc-8594-005056c00008</internal_id>
+			<name>Барбышева Евгения Петровна</name>
+			<first_name>Евгения</first_name>
+			<surname>Барбышева</surname>
+			<patronymic>Петровна</patronymic>
+			<career_start_date>2025-12-01</career_start_date>
+			<experience_years>0</experience_years>
+			<url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</url>
+			<degree>Доктор</degree>
+			<rank>Доктор</rank>
+			<category>Первая</category>
+		</doctor>
+		<doctor id="Test_id4">
+			<internal_id>5944aef9-3177-11f1-86d4-d493905e52af</internal_id>
+			<name>Буба Борис</name>
+			<first_name>Борис</first_name>
+			<surname>Бубаков</surname>
+			<patronymic> </patronymic>
+			<description>Краткое описание</description>
+			<career_start_date>2020-10-27</career_start_date>
+			<experience_years>5</experience_years>
+			<url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</url>
+			<degree>Буба</degree>
+			<rank>Буба</rank>
+			<category>Буба</category>
+		</doctor>
+		<doctor id="Test_Id2">
+			<internal_id>99868528-0928-11dc-93d1-0004614ae652</internal_id>
+			<name>Денисов Дмитрий Алексеевич</name>
+			<first_name>Дмитрий</first_name>
+			<surname>Денисов</surname>
+			<patronymic>Алексеевич</patronymic>
+			<career_start_date>2021-11-15</career_start_date>
+			<experience_years>4</experience_years>
+			<url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</url>
+			<degree>Очень научная степень</degree>
+			<rank>Крайне научное звание</rank>
+			<category>Классная категория</category>
+		</doctor>
+		<doctor id="Test_id3">
+			<internal_id>9e8b672a-9975-11e3-87ec-002618dcef2c</internal_id>
+			<name>Скрипко Юлия Александровна</name>
+			<first_name>Юлия</first_name>
+			<surname>Скрипко</surname>
+			<patronymic>Александровна</patronymic>
+			<career_start_date>2022-08-15</career_start_date>
+			<experience_years>3</experience_years>
+			<url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</url>
+			<degree>Скрипка</degree>
+			<rank>Первая скрипка</rank>
+			<category>Скрипач</category>
+		</doctor>
+	</doctors>
+	<clinics>
+		<clinic id="f679444a-22b7-11df-8618-002618dcef2c">
+			<name>Буба</name>
+			<url>http:83.146.94.112:46080</url>
+			<picture>https://img.freepik.com/free-vector/bakery-background-with-sweets-bread_23-2147785316.jpg?ga=GA1.1.905762259.1770351748&amp;semt=ais_hybrid&amp;w=740&amp;q=80</picture>
+			<email>пики@gmail.com</email>
+			<phone>(351) 003-03-03</phone>
+			<city>г Челябинск</city>
+			<address>ул Черкасская Дом 2</address>
+			<internal_id>f679444a-22b7-11df-8618-002618dcef2c</internal_id>
+			<company_id>ква</company_id>
+		</clinic>
+		<clinic id="4c68deb4-22c3-11df-8618-002618dcef2c">
+			<name>Буба</name>
+			<url>http:83.146.94.112:46080</url>
+			<picture>https://img.freepik.com/free-vector/bakery-background-with-sweets-bread_23-2147785316.jpg?ga=GA1.1.905762259.1770351748&amp;semt=ais_hybrid&amp;w=740&amp;q=80</picture>
+			<email>1@mail.ru</email>
+			<phone>88005553535</phone>
+			<city>Moscow</city>
+			<address>Lenina,1</address>
+			<internal_id>4c68deb4-22c3-11df-8618-002618dcef2c</internal_id>
+			<company_id>44</company_id>
+		</clinic>
+	</clinics>
+	<services>
+		<service id="ea44a0d4-2f25-11f1-86d3-d493905e52af">
+			<name>Тест_ОсновнаяЗапись</name>
+			<gov_id>B01.026.001</gov_id>
+			<internal_id>ea44a0d4-2f25-11f1-86d3-d493905e52af</internal_id>
+		</service>
+		<service id="ea44a0d6-2f25-11f1-86d3-d493905e52af">
+			<name>Тест_ВызовВрача</name>
+			<internal_id>ea44a0d6-2f25-11f1-86d3-d493905e52af</internal_id>
+		</service>
+		<service id="ea44a0d5-2f25-11f1-86d3-d493905e52af">
+			<name>Тест_ЗаписьХирурга</name>
+			<internal_id>ea44a0d5-2f25-11f1-86d3-d493905e52af</internal_id>
+		</service>
+	</services>
+	<offers>
+		<offer id="ac30e13a-3087-11dc-8594-005056c00008_ea44a0d6-2f25-11f1-86d3-d493905e52af_4c68deb4-22c3-11df-8618-002618dcef2c_3a473787-28f1-11f1-86d3-d493905e52af">
+			<online_schedule>true</online_schedule>
+			<service id="ea44a0d6-2f25-11f1-86d3-d493905e52af"/>
+			<clinic id="4c68deb4-22c3-11df-8618-002618dcef2c">
+				<doctor id="ac30e13a-3087-11dc-8594-005056c00008">
+					<speciality>офтальмолог (окулист)</speciality>
+					<adult_appointment>true</adult_appointment>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ac30e13a-3087-11dc-8594-005056c00008_ea44a0d6-2f25-11f1-86d3-d493905e52af_f679444a-22b7-11df-8618-002618dcef2c_3a473787-28f1-11f1-86d3-d493905e52af">
+			<online_schedule>true</online_schedule>
+			<service id="ea44a0d6-2f25-11f1-86d3-d493905e52af"/>
+			<clinic id="f679444a-22b7-11df-8618-002618dcef2c">
+				<doctor id="ac30e13a-3087-11dc-8594-005056c00008">
+					<speciality>офтальмолог (окулист)</speciality>
+					<adult_appointment>true</adult_appointment>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="5944aef9-3177-11f1-86d4-d493905e52af_ea44a0d5-2f25-11f1-86d3-d493905e52af_4c68deb4-22c3-11df-8618-002618dcef2c_3a4737b1-28f1-11f1-86d3-d493905e52af">
+			<online_schedule>true</online_schedule>
+			<service id="ea44a0d5-2f25-11f1-86d3-d493905e52af"/>
+			<clinic id="4c68deb4-22c3-11df-8618-002618dcef2c">
+				<doctor id="5944aef9-3177-11f1-86d4-d493905e52af">
+					<speciality>терапевт</speciality>
+					<adult_appointment>true</adult_appointment>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="5944aef9-3177-11f1-86d4-d493905e52af_ea44a0d5-2f25-11f1-86d3-d493905e52af_f679444a-22b7-11df-8618-002618dcef2c_3a4737b1-28f1-11f1-86d3-d493905e52af">
+			<online_schedule>true</online_schedule>
+			<service id="ea44a0d5-2f25-11f1-86d3-d493905e52af"/>
+			<clinic id="f679444a-22b7-11df-8618-002618dcef2c">
+				<doctor id="5944aef9-3177-11f1-86d4-d493905e52af">
+					<speciality>терапевт</speciality>
+					<adult_appointment>true</adult_appointment>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="99868528-0928-11dc-93d1-0004614ae652_ea44a0d4-2f25-11f1-86d3-d493905e52af_4c68deb4-22c3-11df-8618-002618dcef2c_3a4737b1-28f1-11f1-86d3-d493905e52af">
+			<online_schedule>true</online_schedule>
+			<service id="ea44a0d4-2f25-11f1-86d3-d493905e52af"/>
+			<clinic id="4c68deb4-22c3-11df-8618-002618dcef2c">
+				<doctor id="99868528-0928-11dc-93d1-0004614ae652">
+					<speciality>терапевт</speciality>
+					<adult_appointment>true</adult_appointment>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="99868528-0928-11dc-93d1-0004614ae652_ea44a0d4-2f25-11f1-86d3-d493905e52af_f679444a-22b7-11df-8618-002618dcef2c_3a4737b1-28f1-11f1-86d3-d493905e52af">
+			<online_schedule>true</online_schedule>
+			<service id="ea44a0d4-2f25-11f1-86d3-d493905e52af"/>
+			<clinic id="f679444a-22b7-11df-8618-002618dcef2c">
+				<doctor id="99868528-0928-11dc-93d1-0004614ae652">
+					<speciality>терапевт</speciality>
+					<adult_appointment>true</adult_appointment>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="9e8b672a-9975-11e3-87ec-002618dcef2c_ea44a0d4-2f25-11f1-86d3-d493905e52af_4c68deb4-22c3-11df-8618-002618dcef2c_3a473775-28f1-11f1-86d3-d493905e52af">
+			<online_schedule>true</online_schedule>
+			<service id="ea44a0d4-2f25-11f1-86d3-d493905e52af"/>
+			<clinic id="4c68deb4-22c3-11df-8618-002618dcef2c">
+				<doctor id="9e8b672a-9975-11e3-87ec-002618dcef2c">
+					<speciality>невролог</speciality>
+					<adult_appointment>true</adult_appointment>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="9e8b672a-9975-11e3-87ec-002618dcef2c_ea44a0d4-2f25-11f1-86d3-d493905e52af_f679444a-22b7-11df-8618-002618dcef2c_3a473775-28f1-11f1-86d3-d493905e52af">
+			<online_schedule>true</online_schedule>
+			<service id="ea44a0d4-2f25-11f1-86d3-d493905e52af"/>
+			<clinic id="f679444a-22b7-11df-8618-002618dcef2c">
+				<doctor id="9e8b672a-9975-11e3-87ec-002618dcef2c">
+					<speciality>невролог</speciality>
+					<adult_appointment>true</adult_appointment>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+	</offers>
+</shop>
