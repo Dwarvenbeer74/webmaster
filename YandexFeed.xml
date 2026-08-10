@@ -1,0 +1,1019 @@
+﻿<shop version="2.0" date="2026-08-11 00:15:52">
+	<company>Общество с ограниченной ответственностью "Центр детского здоровья"</company>
+	<name>Медицинский центр Алёнка</name>
+	<url>https://alenkadv.ru/</url>
+	<picture>https://alenkadv.ru/templates/main/app/img/icons/shortcut.svg</picture>
+	<email>1@mail.ru</email>
+	<doctors>
+		<doctor id="d875499d-245e-11ee-ae2d-be3af2b6059f">
+			<internal_id>d875499d-245e-11ee-ae2d-be3af2b6059f</internal_id>
+			<name>Аверьянова Екатерина Евгеньевна</name>
+			<first_name>Екатерина</first_name>
+			<surname>Аверьянова</surname>
+			<patronymic>Евгеньевна</patronymic>
+		</doctor>
+		<doctor id="ffaaef71-450f-11e7-894d-00155d8da705">
+			<internal_id>ffaaef71-450f-11e7-894d-00155d8da705</internal_id>
+			<name>Алпатова Наталья Владимировна</name>
+			<first_name>Наталья</first_name>
+			<surname>Алпатова</surname>
+			<patronymic>Владимировна</patronymic>
+		</doctor>
+		<doctor id="b35b3964-d56e-11e7-ba8c-00155d8da706">
+			<internal_id>b35b3964-d56e-11e7-ba8c-00155d8da706</internal_id>
+			<name>Баранова Ольга Борисовна</name>
+			<first_name>Ольга</first_name>
+			<surname>Баранова</surname>
+			<patronymic>Борисовна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=b35b3964-d56e-11e7-ba8c-00155d8da706</url>
+		</doctor>
+		<doctor id="1fafc007-4514-11e7-894d-00155d8da705">
+			<internal_id>1fafc007-4514-11e7-894d-00155d8da705</internal_id>
+			<name>Белоконь Елена Владимировна</name>
+			<first_name>Елена</first_name>
+			<surname>Белоконь</surname>
+			<patronymic>Владимировна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=1fafc007-4514-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="909a2295-4511-11e7-894d-00155d8da705">
+			<internal_id>909a2295-4511-11e7-894d-00155d8da705</internal_id>
+			<name>Бурлакова Елена Вильгельмовна</name>
+			<first_name>Елена</first_name>
+			<surname>Бурлакова</surname>
+			<patronymic>Вильгельмовна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=909a2295-4511-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="65261a02-4b1a-11e7-894d-00155d8da705">
+			<internal_id>65261a02-4b1a-11e7-894d-00155d8da705</internal_id>
+			<name>Бурундукова Татьяна Алексеевна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Бурундукова</surname>
+			<patronymic>Алексеевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=65261a02-4b1a-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="74844fde-6ab7-11e7-ba86-00155d8da706">
+			<internal_id>74844fde-6ab7-11e7-ba86-00155d8da706</internal_id>
+			<name>Быстрова Галина Викторовна</name>
+			<first_name>Галина</first_name>
+			<surname>Быстрова</surname>
+			<patronymic>Викторовна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=74844fde-6ab7-11e7-ba86-00155d8da706</url>
+		</doctor>
+		<doctor id="3f117300-4512-11e7-894d-00155d8da705">
+			<internal_id>3f117300-4512-11e7-894d-00155d8da705</internal_id>
+			<name>Васильев Андрей Иванович</name>
+			<first_name>Андрей</first_name>
+			<surname>Васильев</surname>
+			<patronymic>Иванович</patronymic>
+		</doctor>
+		<doctor id="a5e2c39b-75b3-11e7-ba86-00155d8da706">
+			<internal_id>a5e2c39b-75b3-11e7-ba86-00155d8da706</internal_id>
+			<name>Вепренцева Татьяна Юрьевна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Вепренцева</surname>
+			<patronymic>Юрьевна</patronymic>
+		</doctor>
+		<doctor id="ab59c973-6ab8-11e7-ba86-00155d8da706">
+			<internal_id>ab59c973-6ab8-11e7-ba86-00155d8da706</internal_id>
+			<name>Воднева Ольга Алексеевна</name>
+			<first_name>Ольга</first_name>
+			<surname>Воднева</surname>
+			<patronymic>Алексеевна</patronymic>
+		</doctor>
+		<doctor id="483bb937-f993-11e7-ba90-00155d8da706">
+			<internal_id>483bb937-f993-11e7-ba90-00155d8da706</internal_id>
+			<name>Волгина Татьяна Львовна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Волгина</surname>
+			<patronymic>Львовна</patronymic>
+		</doctor>
+		<doctor id="4942ba56-4514-11e7-894d-00155d8da705">
+			<internal_id>4942ba56-4514-11e7-894d-00155d8da705</internal_id>
+			<name>Гончарук Светлана Петровна</name>
+			<first_name>Светлана</first_name>
+			<surname>Гончарук</surname>
+			<patronymic>Петровна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=4942ba56-4514-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="6caa7435-4b1b-11e7-894d-00155d8da705">
+			<internal_id>6caa7435-4b1b-11e7-894d-00155d8da705</internal_id>
+			<name>Григорян Ламара Артуровна</name>
+			<first_name>Ламара</first_name>
+			<surname>Григорян</surname>
+			<patronymic>Артуровна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=6caa7435-4b1b-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="ba2ec46f-4b1c-11e7-894d-00155d8da705">
+			<internal_id>ba2ec46f-4b1c-11e7-894d-00155d8da705</internal_id>
+			<name>Димакова Мария Сергеевна</name>
+			<first_name>Мария</first_name>
+			<surname>Димакова</surname>
+			<patronymic>Сергеевна</patronymic>
+		</doctor>
+		<doctor id="558ecb42-4b1e-11e7-894d-00155d8da705">
+			<internal_id>558ecb42-4b1e-11e7-894d-00155d8da705</internal_id>
+			<name>Зотова Наталья Владиславовна</name>
+			<first_name>Наталья</first_name>
+			<surname>Зотова</surname>
+			<patronymic>Владиславовна</patronymic>
+		</doctor>
+		<doctor id="307da278-4518-11e7-894d-00155d8da705">
+			<internal_id>307da278-4518-11e7-894d-00155d8da705</internal_id>
+			<name>Катенкова Элина Юрьевна</name>
+			<first_name>Элина</first_name>
+			<surname>Катенкова</surname>
+			<patronymic>Юрьевна</patronymic>
+		</doctor>
+		<doctor id="b6bb8dda-4b1e-11e7-894d-00155d8da705">
+			<internal_id>b6bb8dda-4b1e-11e7-894d-00155d8da705</internal_id>
+			<name>Кацевич Елена Степановна</name>
+			<first_name>Елена</first_name>
+			<surname>Кацевич</surname>
+			<patronymic>Степановна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=b6bb8dda-4b1e-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="381d6d45-4514-11e7-894d-00155d8da705">
+			<internal_id>381d6d45-4514-11e7-894d-00155d8da705</internal_id>
+			<name>Куманев Игорь Степанович</name>
+			<first_name>Игорь</first_name>
+			<surname>Куманев</surname>
+			<patronymic>Степанович</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=381d6d45-4514-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="41e43c46-023a-11f1-a221-00155daa6107">
+			<internal_id>41e43c46-023a-11f1-a221-00155daa6107</internal_id>
+			<name>Лаборатория Ильичева 4</name>
+			<first_name>Ильичева 4</first_name>
+			<surname>Лаборатория</surname>
+		</doctor>
+		<doctor id="3706a964-023a-11f1-a221-00155daa6107">
+			<internal_id>3706a964-023a-11f1-a221-00155daa6107</internal_id>
+			<name>Лаборатория Маковского 7б</name>
+			<first_name>Маковского 7б</first_name>
+			<surname>Лаборатория</surname>
+		</doctor>
+		<doctor id="1f282538-023a-11f1-a221-00155daa6107">
+			<internal_id>1f282538-023a-11f1-a221-00155daa6107</internal_id>
+			<name>Лаборатория Некрасовская 90 (Верхний Вход)</name>
+			<first_name>Некрасовская 90</first_name>
+			<surname>Лаборатория</surname>
+			<patronymic>(Верхний Вход)</patronymic>
+		</doctor>
+		<doctor id="f63b8c46-0239-11f1-a221-00155daa6107">
+			<internal_id>f63b8c46-0239-11f1-a221-00155daa6107</internal_id>
+			<name>Лаборатория Некрасовская 90 (Нижний Вход)</name>
+			<first_name>Некрасовская 90</first_name>
+			<surname>Лаборатория</surname>
+			<patronymic>(Нижний Вход)</patronymic>
+		</doctor>
+		<doctor id="1fba8fba-4b22-11e7-894d-00155d8da705">
+			<internal_id>1fba8fba-4b22-11e7-894d-00155d8da705</internal_id>
+			<name>Лепейко Юлия Борисовна</name>
+			<first_name>Юлия</first_name>
+			<surname>Лепейко</surname>
+			<patronymic>Борисовна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=1fba8fba-4b22-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="2360ab29-ce77-11e7-ba8c-00155d8da706">
+			<internal_id>2360ab29-ce77-11e7-ba8c-00155d8da706</internal_id>
+			<name>Мамынова Анастасия Дмитриевна</name>
+			<first_name>Анастасия</first_name>
+			<surname>Мамынова</surname>
+			<patronymic>Дмитриевна</patronymic>
+		</doctor>
+		<doctor id="04251f9a-4513-11e7-894d-00155d8da705">
+			<internal_id>04251f9a-4513-11e7-894d-00155d8da705</internal_id>
+			<name>Маневич Елена Ивановна</name>
+			<first_name>Елена</first_name>
+			<surname>Маневич</surname>
+			<patronymic>Ивановна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=04251f9a-4513-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="c4eac0c4-4518-11e7-894d-00155d8da705">
+			<internal_id>c4eac0c4-4518-11e7-894d-00155d8da705</internal_id>
+			<name>Мельникова Юлия Владимировна</name>
+			<first_name>Юлия</first_name>
+			<surname>Мельникова</surname>
+			<patronymic>Владимировна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=c4eac0c4-4518-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="948b176a-4518-11e7-894d-00155d8da705">
+			<internal_id>948b176a-4518-11e7-894d-00155d8da705</internal_id>
+			<name>Ни Антонина Николаевна</name>
+			<first_name>Антонина</first_name>
+			<surname>Ни</surname>
+			<patronymic>Николаевна</patronymic>
+		</doctor>
+		<doctor id="ddea9742-4513-11e7-894d-00155d8da705">
+			<internal_id>ddea9742-4513-11e7-894d-00155d8da705</internal_id>
+			<name>Плишко Анна Мстиславовна</name>
+			<first_name>Анна</first_name>
+			<surname>Плишко</surname>
+			<patronymic>Мстиславовна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=ddea9742-4513-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="5afe431e-4750-11e7-894d-00155d8da705">
+			<internal_id>5afe431e-4750-11e7-894d-00155d8da705</internal_id>
+			<name>Попова Александра Александровна</name>
+			<first_name>Александра</first_name>
+			<surname>Попова</surname>
+			<patronymic>Александровна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=5afe431e-4750-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="53c7068d-5afe-11e7-ba85-00155d8da706">
+			<internal_id>53c7068d-5afe-11e7-ba85-00155d8da706</internal_id>
+			<name>Попова Людмила Григорьевна</name>
+			<first_name>Людмила</first_name>
+			<surname>Попова</surname>
+			<patronymic>Григорьевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=53c7068d-5afe-11e7-ba85-00155d8da706</url>
+		</doctor>
+		<doctor id="f65470a6-4517-11e7-894d-00155d8da705">
+			<internal_id>f65470a6-4517-11e7-894d-00155d8da705</internal_id>
+			<name>Приходченко Нелли Григорьевна</name>
+			<first_name>Нелли</first_name>
+			<surname>Приходченко</surname>
+			<patronymic>Григорьевна</patronymic>
+		</doctor>
+		<doctor id="897ed940-4b29-11e7-894d-00155d8da705">
+			<internal_id>897ed940-4b29-11e7-894d-00155d8da705</internal_id>
+			<name>Раменская Наталья Викторовна</name>
+			<first_name>Наталья</first_name>
+			<surname>Раменская</surname>
+			<patronymic>Викторовна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=897ed940-4b29-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="f1ec8b2f-6aba-11e7-ba86-00155d8da706">
+			<internal_id>f1ec8b2f-6aba-11e7-ba86-00155d8da706</internal_id>
+			<name>Румянцев Илья Михайлович</name>
+			<first_name>Илья</first_name>
+			<surname>Румянцев</surname>
+			<patronymic>Михайлович</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=f1ec8b2f-6aba-11e7-ba86-00155d8da706</url>
+		</doctor>
+		<doctor id="1d72f8ff-4513-11e7-894d-00155d8da705">
+			<internal_id>1d72f8ff-4513-11e7-894d-00155d8da705</internal_id>
+			<name>Смагина Марина Анатольевна</name>
+			<first_name>Марина</first_name>
+			<surname>Смагина</surname>
+			<patronymic>Анатольевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=1d72f8ff-4513-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="1e6d28b2-4b2b-11e7-894d-00155d8da705">
+			<internal_id>1e6d28b2-4b2b-11e7-894d-00155d8da705</internal_id>
+			<name>Степанова Наталья Юрьевна</name>
+			<first_name>Наталья</first_name>
+			<surname>Степанова</surname>
+			<patronymic>Юрьевна</patronymic>
+		</doctor>
+		<doctor id="c22d37f2-4511-11e7-894d-00155d8da705">
+			<internal_id>c22d37f2-4511-11e7-894d-00155d8da705</internal_id>
+			<name>Суханова Тамара Геннадьевна</name>
+			<first_name>Тамара</first_name>
+			<surname>Суханова</surname>
+			<patronymic>Геннадьевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=c22d37f2-4511-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="62ce8cd5-4514-11e7-894d-00155d8da705">
+			<internal_id>62ce8cd5-4514-11e7-894d-00155d8da705</internal_id>
+			<name>Терских Елена Сергеевна</name>
+			<first_name>Елена</first_name>
+			<surname>Терских</surname>
+			<patronymic>Сергеевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=62ce8cd5-4514-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="a946299d-6391-11e8-ba9c-00155d8da706">
+			<internal_id>a946299d-6391-11e8-ba9c-00155d8da706</internal_id>
+			<name>Тюрева Мария Александровна</name>
+			<first_name>Мария</first_name>
+			<surname>Тюрева</surname>
+			<patronymic>Александровна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=a946299d-6391-11e8-ba9c-00155d8da706</url>
+		</doctor>
+		<doctor id="681e244d-0581-11e8-ba90-00155d8da706">
+			<internal_id>681e244d-0581-11e8-ba90-00155d8da706</internal_id>
+			<name>Хабибуллина Гульнара Ульфатовна</name>
+			<first_name>Гульнара</first_name>
+			<surname>Хабибуллина</surname>
+			<patronymic>Ульфатовна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=681e244d-0581-11e8-ba90-00155d8da706</url>
+		</doctor>
+		<doctor id="d9cd92aa-1acb-11e8-ba91-00155d8da706">
+			<internal_id>d9cd92aa-1acb-11e8-ba91-00155d8da706</internal_id>
+			<name>Халин Александр Сергеевич</name>
+			<first_name>Александр</first_name>
+			<surname>Халин</surname>
+			<patronymic>Сергеевич</patronymic>
+		</doctor>
+		<doctor id="a3cb2ef6-4b2c-11e7-894d-00155d8da705">
+			<internal_id>a3cb2ef6-4b2c-11e7-894d-00155d8da705</internal_id>
+			<name>Черных Наталья Юрьевна</name>
+			<first_name>Наталья</first_name>
+			<surname>Черных</surname>
+			<patronymic>Юрьевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=a3cb2ef6-4b2c-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="653b40b5-4515-11e7-894d-00155d8da705">
+			<internal_id>653b40b5-4515-11e7-894d-00155d8da705</internal_id>
+			<name>Чукаева Елена Николаевна</name>
+			<first_name>Елена</first_name>
+			<surname>Чукаева</surname>
+			<patronymic>Николаевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=653b40b5-4515-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="7e252f18-4518-11e7-894d-00155d8da705">
+			<internal_id>7e252f18-4518-11e7-894d-00155d8da705</internal_id>
+			<name>Шастун Юлия Аркадьевна</name>
+			<first_name>Юлия</first_name>
+			<surname>Шастун</surname>
+			<patronymic>Аркадьевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=7e252f18-4518-11e7-894d-00155d8da705</url>
+		</doctor>
+		<doctor id="3fc4108a-6ab5-11e7-ba86-00155d8da706">
+			<internal_id>3fc4108a-6ab5-11e7-ba86-00155d8da706</internal_id>
+			<name>Шорникова Ольга Борисовна</name>
+			<first_name>Ольга</first_name>
+			<surname>Шорникова</surname>
+			<patronymic>Борисовна</patronymic>
+		</doctor>
+		<doctor id="1e1da04a-4518-11e7-894d-00155d8da705">
+			<internal_id>1e1da04a-4518-11e7-894d-00155d8da705</internal_id>
+			<name>Шуматова Татьяна Александровна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Шуматова</surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="622ee687-4b2d-11e7-894d-00155d8da705">
+			<internal_id>622ee687-4b2d-11e7-894d-00155d8da705</internal_id>
+			<name>Щербакова Вероника Сергеевна</name>
+			<first_name>Вероника</first_name>
+			<surname>Щербакова</surname>
+			<patronymic>Сергеевна</patronymic>
+			<url>https://booking.alenkadv.ru/booking/choise/?employer=622ee687-4b2d-11e7-894d-00155d8da705</url>
+		</doctor>
+	</doctors>
+	<clinics>
+		<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+			<name>Медицинский центр Алёнка</name>
+			<url>https://alenkadv.ru/</url>
+			<picture>https://alenkadv.ru/templates/main/app/img/icons/shortcut.svg</picture>
+			<email>1@mail.ru</email>
+			<phone>8(423)2795725</phone>
+			<city>г Владивосток</city>
+			<address>ул Маковского Корпус б Дом 7</address>
+			<internal_id>b4c29683-4504-11e7-894d-00155d8da705</internal_id>
+			<company_id>20117061987</company_id>
+		</clinic>
+		<clinic id="9b7040a0-450c-11e7-894d-00155d8da705">
+			<name>Медицинский центр Алёнка</name>
+			<url>https://alenkadv.ru/</url>
+			<picture>https://alenkadv.ru/templates/main/app/img/icons/shortcut.svg</picture>
+			<phone>8(423)2795725</phone>
+			<city>г Владивосток</city>
+			<address>ул Некрасовская Дом 90</address>
+			<internal_id>9b7040a0-450c-11e7-894d-00155d8da705</internal_id>
+			<company_id>20117061987</company_id>
+		</clinic>
+	</clinics>
+	<services>
+		<service id="76f87ed6-c02e-11e9-bac2-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Комплексы по возрасту/Первичный прием педиатра в составе комплекса </name>
+			<internal_id>76f87ed6-c02e-11e9-bac2-00155d8da706</internal_id>
+		</service>
+		<service id="5a0e8fff-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Невролог/Прием (осмотр, консультация) врача-невролога первичный</name>
+			<gov_id>B01.023.001</gov_id>
+			<description>Стоимость зависит от категории специалиста
+ФИО врача ведущего прием: Бурлакова Елена Вильгельмовна: прием пациентов до 18 лет 
+ФИО врача ведущего прием: Урих Анастасия Борисовна : прием пациентов до 18 лет 
+ФИО врача ведущего прием: Шмакова Виктория Борисовна : прием пациентов до 18 лет </description>
+			<internal_id>5a0e8fff-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="5407fe42-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Педиатр/Прием (осмотр, консультация) врача-педиатра первичный</name>
+			<gov_id>B01.031.001</gov_id>
+			<description>Педиатр – детский врач, который специализируется на вопросах охраны здоровья ребенка, диагностирования, профилактики и лечения заболеваний у детей.
+Детский педиатр осуществляет осмотр и назначает в случае необходимости адекватного лечения. Стоит заметить, что помимо лечения в компетенцию врача-педиатра входит предоставление практических рекомендаций, например при проведении грудного вскармливания, а также разъяснение путей снижения частых заболеваний простудного характера, предостережение от чрезмерного использования лекарственных препаратов.
+ТОЛЬКО ВЫЗОВ НА ДОМ СО СЛД СИМПТОМАМИ или запись на последнее время приема-во избежание контатактов: СЫПЬ, ПОНОС, РВОТА. ЗАПРЕЩЕНО С ДИАГНОЗАМИ- СКАРЛАТИНА, КОРЬ, КРАСНУХА, КОКЛЮШ, ВЕТРЯНКА, РОТОВИРУСНАЯ ИНФЕКЦИЯ, НОРОВИРУСНАЯ ИНФЕКЦИЯ, КИШЕЧНАЯ ИНФЕКЦИЯ, МЕНИНГОКОККОВАЯ ИНФЕКЦИЯ, ЛИШАЯ И ВШИ. ТОЛЬКО ВЫЗОВ НА ДОМ-ПРИЕМ В КЛИНИКЕ ЗАПРЕЩЕН !
+Стоимость зависит от категории специалиста 
+ФИО врача ведущего  прием:Александрова Юлия Олеговна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Алпатова Наталья Владимировна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Белоконь Елена Владимировна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Бурундукова Татьяна Алексеевна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Быкова Ольга Геннадьевна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Гончарук Светлана Петровна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Григорян Ламара Артуровна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Демяненко Мария Викторовна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Зорькин Никита Сергеевич: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Зорькина Екатерина Михайловна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Зотова Наталья Владиславовна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Кацевич Елена Степановна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Кокурина Елена Петровна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Космылина Юлия Александровна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Крицкая Валерия Алексеевна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Куманев Игорь Степанович: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Маневич Елена Ивановна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Папчук Алена Евгеньевна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Плишко Анна Мстиславовна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Попова Людмила Григорьевна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Правкина Ирина Григорьевна: принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием:Раменская Наталья Викторовна : принимает пациентов от 0 до 18 лет 
+ФИО врача ведущего  прием: Сорокин Никита Сергеевич: принимает пациентов от 0 до 18 лет
+ ФИО врача ведущего  прием: Степанова Наталья Юрьевна: принимает пациентов от 0 до 18 лет 
+ ФИО врача ведущего  прием:Суханова Тамара Геннадьевна : принимает пациентов от 0 до 18 лет 
+ ФИО врача ведущего  прием: Терских Елена Сергеевна: принимает пациентов от 0 до 18 лет 
+ ФИО врача ведущего  прием: Требушевская Светлана Сергеевна: принимает пациентов от 0 до 18 лет 
+ ФИО врача ведущего  прием: Хабибуллина Гульнара Ульфатовна: принимает пациентов от 0 до 18 лет 
+ ФИО врача ведущего  прием:Черных Наталья Юрьевна : принимает пациентов от 0 до 18 лет 
+ ФИО врача ведущего  прием:Чукаева Елена Николаевна : принимает пациентов от 0 до 18 лет 
+ ФИО врача ведущего  прием: Шведов Олег Николаевич: принимает пациентов от 0 до 18 лет 
+</description>
+			<internal_id>5407fe42-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="600b9842-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Оториноларинголог/Прием (осмотр, консультация) врача-оториноларинголога первичный</name>
+			<gov_id>B01.028.001</gov_id>
+			<description>Стоимость зависит от категории специалиста 
+ФИО врача ведущего операционнный прием: Шереметьев Михаил Владимирович: принимает пациентов любого возраста. (оперирующий специалист)
+ФИО врача ведущего прием:Лепейко Юлия Борисовна: принимает пациентов любого возраста. 
+ФИО врача ведущего операционнный прием:Красникова Анна Александровна:  принимает пациентов любого возраста. (оперирующий специалист)
+ФИО врача ведущего прием: Смагина Марина Анатольевна: принимает пациентов любого возраста. 
+ФИО врача ведущего прием: Ваен-Маер Екатерина Павловна: принимает пациентов любого возраста. 
+ФИО врача ведущего прием: Быстрова Галина Викторовна: принимает пациентов любого возраста. 
+ФИО врача ведущего прием: Тищенко Анастасия Александровна: принимает пациентов любого возраста. </description>
+			<internal_id>600b9842-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="660b0542-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Кардиология/Прием детского кардиолога/Прием (осмотр, консультация) врача - детского кардиолога первичный</name>
+			<gov_id>B01.015.003</gov_id>
+			<description>Номерные направления на операции не оформляются
+Для заключения необходимо иметь УЗИ сердца ( за последние 3 мес) и карта амбулаторная
+ФИО врача ведущего прием: Шастун Юлия Аркадьевна: принимает пациентов от 0 до 18 лет
+</description>
+			<internal_id>660b0542-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="600b9823-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Офтальмолог/Прием (осмотр, консультация) врача-офтальмолога первичный</name>
+			<gov_id>B01.029.001</gov_id>
+			<description>Стоимость зависит от категории специалиста 
+ФИО врача ведущего  прием: Мельникова Юлия Владимировна: принимает пациентов любого возраста
+ФИО врача ведущего прием:Гуроева Оюна Сергеевна : принимает пациентов от 0 до 18 лет (не подбирает линзы)
+ФИО врача ведущего  прием:Крюкова Екатерина Валентиновна : принимает пациентов с 6 лет до любого возраста
+ФИО врача ведущего  прием: Храменкова Людмила Сергеевна : принимает пациентов c 2,5 лет до любого возраста</description>
+			<internal_id>600b9823-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="660b0561-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Гастроэнтеролог/Прием (осмотр, консультация) врача-гастроэнтеролога первичный</name>
+			<gov_id>B01.004.001</gov_id>
+			<description>На прием рекомендовано иметь акутальные результаты УЗИ брюшной полости и анализ кала на копрограмму
+ФИО врача ведущего прием: Попова Александра Александровна: принимает пациентов от 0 до 18 лет
+</description>
+			<internal_id>660b0561-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="b9d59981-53eb-11f1-a224-00155daa6107">
+			<name>Основная номенклатура/Оториноларинголог/Прием (осмотр, консультация) врача сурдолога-оториноларинголога первичный</name>
+			<gov_id>B01.046.001</gov_id>
+			<description>Сурдологическое обследование проводит врач сурдролог-оториноларинголог.
+В прием входит не только диагностика слуха, так же полный осмотр лор органов. Выполняется отоскопия, тимпанометрия, аудиометрия, отоакустическая эмиссия и полная диагностика лор органов.(эндоскопия при необходимости оплачивается отдельно) 
+
+Врач -Лепейко Юлия Борисовна, прием пациентов от 7 лет до любого возраста. 
+</description>
+			<internal_id>b9d59981-53eb-11f1-a224-00155daa6107</internal_id>
+		</service>
+		<service id="660b0578-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Гинеколог/Детский гинеколог/Первичный прием (осмотр, консультация) детского гинеколога  </name>
+			<gov_id>B01.001.001</gov_id>
+			<description>ФИО врача ведущего прием: Щербакова Вероника Сергеевна  :прием пациентов до 18 лет
+ФИО врача ведущего прием: Позднякова Валерия Григорьевна  :прием пациентов до 18 лет</description>
+			<internal_id>660b0578-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="bbe99729-3f67-11eb-bad0-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Нейрохирургия/Прием (осмотр, консультация) врача-нейрохирурга первичный</name>
+			<gov_id>B01.024.001</gov_id>
+			<description>ФИО врача ведущего прием:Пестова Анастасия Алексеевна: принимает пациентов любого возраста</description>
+			<internal_id>bbe99729-3f67-11eb-bad0-00155d8da706</internal_id>
+		</service>
+		<service id="52abbff1-63c8-11e8-ba9c-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Дерматолог/Прием (осмотр, консультация) врача-дерматовенеролога первичная</name>
+			<gov_id>B01.008.001</gov_id>
+			<description>Стоимость приема зависит от категории специалиста
+ФИО врача ведущего прием:Тюрева Мария Александровна , ограничений по возрасту нет 
+ФИО врача ведущего прием:Катенкова Элина Юрьевна , ограничений по возрасту нет 
+ФИО врача ведущего прием: Зимина Алина Сергеевна, ограничений по возрасту нет 
+Удаление новообразований осуществляет только Тюрева Мария Александровна. Удаление пяточных бородавок только с 13 лет </description>
+			<internal_id>52abbff1-63c8-11e8-ba9c-00155d8da706</internal_id>
+		</service>
+		<service id="6c080cfc-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Стоматолог/Прием (осмотр, консультация) врача-стоматолога первичный</name>
+			<gov_id>B01.064.001</gov_id>
+			<description>ФИО врача ведущего прием:Богомолова Вероника Васильевна: принимает пациентов с 10 лет далее без ограничений
+ФИО врача ведущего прием:Бухтенкова Наталия Николаевна: принимает пациентов до 18 лет
+ФИО врача ведущего прием:Воронова Анастасия Владиславовна: принимает пациентов до 18 лет 
+ФИО врача ведущего прием:Дробитько Елизавета Дмитриевна: принимает пациентов до 13 лет 
+ФИО врача ведущего прием:Мамынова Анастасия Дмитриевна: принимает пациентов до 18 лет 
+ФИО врача ведущего прием:Непомнящая Кристина Викторовна: принимает пациентов до 18 лет 
+ФИО врача ведущего прием:Войславская Жанна Евгеньевна: принимает пациентов до 18 лет, не проводит лечение под наркозом </description>
+			<internal_id>6c080cfc-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="72077db6-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Мануальный терапевт/Прием (осмотр, консультация) врача мануальной терапии первичный </name>
+			<gov_id>B01.022.001</gov_id>
+			<description>Стоимость у Каировой Е.А. зависит от зон:Спина- 4 единицы, Спина+ноги или спина+руки- 5  едениц, общий всего тела- 6 едениц. 
+ФИО врача ведущего прием: Каирова Евгения Александровна :прием пациентов от 15 лет
+ФИО врача ведущего прием: Лученков Константин Сергеевич: прием пациентов любого возраста</description>
+			<internal_id>72077db6-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="660b056d-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Терапевт/Прием (осмотр, консультация) врача-терапевта первичный</name>
+			<gov_id>B01.047.001</gov_id>
+			<description>ФИО врача ведущего прием: Тодорика Ольга Владимировна, принимает пациентов от 18 лет
+ФИО врача ведущего прием: Мохнатый Илья Андреевич, принимает пациентов от 18 лет</description>
+			<internal_id>660b056d-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="600b9809-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Хирург/Детский хирург/Прием (осмотр, консультация) врача - детского хирурга первичный</name>
+			<gov_id>B01.010.001</gov_id>
+			<description>ФИО врача ведущего прием: Васильев Андрей Иванович: принимает пациентов до 18 лет
+ФИО врача ведущего прием:Герасименко Яков Александрович : принимает пациентов до 18 лет
+ФИО врача ведущего прием: Ранчаева Наталия Анатольевна: принимает пациентов до 18 лет
+ФИО врача ведущего прием: Румянцев Илья Михайлович: принимает пациентов до 18 лет</description>
+			<internal_id>600b9809-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="9f79b7aa-34e0-11e9-bab2-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Педиатр/Главный врач/Прием (осмотр, консультация) главного врача-педиатра первичный </name>
+			<description>ФИО врача ведущего  прием:Баранова Ольга Борисовна : принимает пациентов от 0 до 18 лет 
+</description>
+			<internal_id>9f79b7aa-34e0-11e9-bab2-00155d8da706</internal_id>
+		</service>
+		<service id="660b055c-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Уролог/Детский уролог/Прием (осмотр, консультация) врача - детского уролога-андролога </name>
+			<gov_id>B01.053.003</gov_id>
+			<description>Диагностический урологический комплекс 1 (только для мальчиков) - рекомендован пациентам любого возраста с урологическими и нефрологическими заболеваниями. (желательно с результатом ОАМ). Комплекс включает: консультация уролога,узи мальчик мошонка.Все обследования проводит Головина (узи в том числе). запись на час
+Диагностический урологический комплекс 2 (для девочек и мальчиков)- рекомендован пациентам любого возраста с урологическими и нефрологическими заболеваниями.  желательно с результатом ОАМ и перед узи наполянет мочевой пузырь. Комплекс включает: консультация уролога, узи почек, мочевого пузыря. Все обследования проводит Головина (узи в том числе). запись на час
+Диагностический урологический комплекс 3  (только для мальчиков) - рекомендован пациентам любого возраста с урологическими и нефрологическими заболеваниями.  (желательно с результатом ОАМ) и перед узи наполянет мочевой пузырь. Комплекс включает: консультация уролога, узи почек, мочевого пузыря, репродуктивных органов мошонка. Все обследования проводит Головина (узи в том числе). запись на час
+ФИО врача ведущего прием: Головина Олеся Борисовна, принимает пациентов любого возраста</description>
+			<internal_id>660b055c-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="660b055f-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Нефролог/Прием (осмотр, консультация) врача-нефролога первичный</name>
+			<gov_id>B01.025.001</gov_id>
+			<description>ФИО врача ведущего прием: Быкова Ольга Геннадьевна, принимает пациентов от 0 до 18 лет</description>
+			<internal_id>660b055f-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="660b0556-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Детский эндокринолог/Прием (осмотр, консультация) врача - детского эндокринолога первичный</name>
+			<gov_id>B01.058.003</gov_id>
+			<description>Стоимость приема зависит от категории специалиста
+ФИО врача ведущего прием:Маркова Алина Андреевна: принимает пациентов от 0 до 18 лет
+ФИО врача ведущего прием: Павленко Екатерина Витальевна :принимает пациентов от 0 до 18 лет
+ФИО врача ведущего прием: Бочарникова Наталья Николаевна :принимает пациентов от 0 до 18 лет</description>
+			<internal_id>660b0556-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="660b0548-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Аллерголог/Прием (осмотр, консультация) врача-аллерголога-иммунолога первичный</name>
+			<gov_id>B01.002.001</gov_id>
+			<description>Запись возможна только через операторов КЦ
+ФИО врача ведущего прием: Приходченко Нелли Григорьевна, ограничений по возрасту нет 
+ФИО врача ведущего прием: Коваленко Дарья Вадимовна, принимает пациентов от 0 до 18 лет
+</description>
+			<internal_id>660b0548-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="9c4d3738-9995-11ea-baca-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Хирург/Хирург (для взрослых)/Прием (осмотр, консультация) врача-хирурга первичный</name>
+			<gov_id>B01.057.001</gov_id>
+			<description>ФИО врача ведущего прием:Гроссман Станислав Сергеевич: принимает пациентов от 18 лет </description>
+			<internal_id>9c4d3738-9995-11ea-baca-00155d8da706</internal_id>
+		</service>
+		<service id="660b0576-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Онколог/Прием (осмотр, консультация) врача-онколога первичный</name>
+			<gov_id>B01.027.001</gov_id>
+			<description>Врач Гончаров Андрей Владимирович
+Прием пациентов от 18 лет. прием онколога маммолога с 14 лет без направления, до 14 лет только ри наличие направления
+При проведение манипуляций и УЗИ консультация обязательна </description>
+			<internal_id>660b0576-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="6c080d26-41e8-11e8-ba9b-00155d8da706">
+			<name>Основная номенклатура/Поликлиника/Массаж/Общий массаж медицинский</name>
+			<gov_id>A21.01.001</gov_id>
+			<description>До 3-х месяцев по направлению от невролога
+ФИО врача ведущего прием:  Савина Ольга Сергеевна :прием пациентов до 7 лет 
+Можно приобрести комплекс на 10 занятий
+Массаж проводится адресу Ильичева 4</description>
+			<internal_id>6c080d26-41e8-11e8-ba9b-00155d8da706</internal_id>
+		</service>
+		<service id="30d43d7e-e49a-11ed-bb34-00155d8da706">
+			<name>Основная номенклатура/Стоматолог/Ортодонт/Прием(осмотр, консультация) врача ортодонта первичный</name>
+			<gov_id>B01.063.001</gov_id>
+			<description>Перед приемом для брекет системы  по желанию пациента может быть пройдено обследование для пациентов от 7-9 лет ОПТГ и ТРГ в боковой проекции, с 9 лет и страше КЛКТ и ТРГ в боковой проекции. Взрослым КЛКТ с захватом ВНЧС, Если есть жалобы на сустав то КЛКТ ВНЧС открытый, закрытый рот. ЭТО НЕ ОБЯЗАТЕЛЬНО. ТОЛЬКО ПАЦИЕНТАМ КОТОРЫЕ ОЧЕНЬ ХОТЯТ ПРОЙТИ ДИАГНОСТИКУ -ДЕЛАЕТ ПИКАСО. 
+ФИО врача ведущего прием: Маркина Александра Сергеевна: принимает пациентовлюбого возраста</description>
+			<internal_id>30d43d7e-e49a-11ed-bb34-00155d8da706</internal_id>
+		</service>
+	</services>
+	<offers>
+		<offer id="eb2cc3fd-7222-4316-b391-e6985cfc85ad">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2100</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="76f87ed6-c02e-11e9-bac2-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="ffaaef71-450f-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="15fa0708-ba24-4696-a46d-517dac395abd">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="9f79b7aa-34e0-11e9-bab2-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="b35b3964-d56e-11e7-ba8c-00155d8da706">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="18a1b8b9-6f0c-43c6-a1ba-2a37c2956bf8">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="1fafc007-4514-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="d99374aa-2157-4b6e-a3a6-6073224dd267">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5a0e8fff-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="909a2295-4511-11e7-894d-00155d8da705">
+					<speciality>невролог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="4e7215c5-a6df-4507-9528-1fdb377bc0f0">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="65261a02-4b1a-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="f382c4c2-5c24-4380-a722-8b738f5ead39">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2100</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="76f87ed6-c02e-11e9-bac2-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="ab59c973-6ab8-11e7-ba86-00155d8da706">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="56de4c68-9963-4555-be8a-0dc743fa891a">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="4942ba56-4514-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="b4177dae-f18e-44bc-ba1f-9712a6d01406">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="6caa7435-4b1b-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="9bcd1db4-4054-460a-9f80-6e2914142529">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2100</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="76f87ed6-c02e-11e9-bac2-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="ba2ec46f-4b1c-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="75fe2f61-063b-4f8a-ba5f-6a215c20bef2">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2100</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="76f87ed6-c02e-11e9-bac2-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="558ecb42-4b1e-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="95ff7fb3-e013-41c4-a964-f2127e5e51b3">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="b6bb8dda-4b1e-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="c9a16fe3-eb97-4819-8084-9202d2ac74f5">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="381d6d45-4514-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="8df1b722-9bc7-4fd1-b213-bf83c43bdd5f">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="04251f9a-4513-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="f20b0dc0-614a-4550-b003-485bc6e18a1f">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="ddea9742-4513-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="31f5ecb2-6d67-4007-9979-09c770c67696">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="660b0561-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="5afe431e-4750-11e7-894d-00155d8da705">
+					<speciality>гастроэнтеролог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="c0485abc-b067-462e-a89b-2d9b5875e2f1">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="53c7068d-5afe-11e7-ba85-00155d8da706">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="3c4934e5-ecbe-4975-845c-eb689d5198f1">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="897ed940-4b29-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="9430c0c9-4484-4d54-b130-3a444457f9ee">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="600b9809-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="f1ec8b2f-6aba-11e7-ba86-00155d8da706">
+					<speciality>хирург</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="a82015ba-c823-47f9-80b9-06e93849b6fb">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2100</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="76f87ed6-c02e-11e9-bac2-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="1e6d28b2-4b2b-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="db794fd6-ca48-4745-8ae5-bc248e5d5d66">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="c22d37f2-4511-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="c60c0269-bbcb-4b98-95d3-e411df3bcf57">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="62ce8cd5-4514-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ffe5510b-abdc-4a83-a6d7-7328de43c391">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="52abbff1-63c8-11e8-ba9c-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="a946299d-6391-11e8-ba9c-00155d8da706">
+					<speciality>дерматолог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="250e6b41-7633-42af-80bf-db1d98bbfe11">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="681e244d-0581-11e8-ba90-00155d8da706">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="e6e0a20c-d63b-4fbc-a901-01fbd4e821a8">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="a3cb2ef6-4b2c-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="088d3c23-3daa-4cb2-b6f0-0b2773dfee22">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="5407fe42-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="653b40b5-4515-11e7-894d-00155d8da705">
+					<speciality>педиатр</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="f5928eff-84a5-4417-a39b-654e23cacf53">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="660b0542-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="7e252f18-4518-11e7-894d-00155d8da705">
+					<speciality>кардиолог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="9d9e3dcd-8669-4b5b-b517-bb525314e03e">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="660b0578-41e8-11e8-ba9b-00155d8da706"/>
+			<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
+				<doctor id="622ee687-4b2d-11e7-894d-00155d8da705">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+	</offers>
+</shop>
