@@ -1,0 +1,190 @@
+﻿<shop version="2.0" date="2026-08-24 22:08:22">
+	<company>Общество с ограниченной ответственностью "Медицинская клиника "Доктороф""</company>
+	<name>mkdoctorof.ru</name>
+	<url>https://mkdoctorof.ru/</url>
+	<picture>https://mkdoctorof.ru/up/systemsettings/value_file/favikon.svg</picture>
+	<doctors>
+		<doctor id="3a2b2225-e4fe-11ee-b04a-14ac6050ca7c">
+			<internal_id>3a2b2225-e4fe-11ee-b04a-14ac6050ca7c</internal_id>
+			<name>Абунагимов Виталий Маратович</name>
+			<first_name>Виталий</first_name>
+			<surname>Абунагимов</surname>
+			<patronymic>Маратович</patronymic>
+		</doctor>
+		<doctor id="f1a99c82-f56d-11ee-b04b-14ac6050ca7c">
+			<internal_id>f1a99c82-f56d-11ee-b04b-14ac6050ca7c</internal_id>
+			<name>Абунагимова Светлана Анатольевна</name>
+			<first_name>Светлана</first_name>
+			<surname>Абунагимова</surname>
+			<patronymic>Анатольевна</patronymic>
+			<url>https://mkdoctorof.ru/members/abunagimova-svetlana-anatolevna</url>
+		</doctor>
+		<doctor id="c5ea9bad-85ac-11f1-b079-14ac6050ca7c">
+			<internal_id>c5ea9bad-85ac-11f1-b079-14ac6050ca7c</internal_id>
+			<name>Аджигайтканов Султан Мурат-Алиевич</name>
+			<first_name>Султан</first_name>
+			<surname>Аджигайтканов</surname>
+			<patronymic>Мурат-Алиевич</patronymic>
+		</doctor>
+		<doctor id="c9bbfbc9-4fc4-11ef-b04d-14ac6050ca7c">
+			<internal_id>c9bbfbc9-4fc4-11ef-b04d-14ac6050ca7c</internal_id>
+			<name>Ахмедов Анар Адалет Оглы</name>
+			<first_name>Анар</first_name>
+			<surname>Ахмедов</surname>
+			<patronymic>Адалет Оглы</patronymic>
+			<url>https://mkdoctorof.ru/members/ahmedov-anar-adalet-ogly/</url>
+		</doctor>
+		<doctor id="86411836-edd4-11ef-b055-16ac6050ea5b">
+			<internal_id>86411836-edd4-11ef-b055-16ac6050ea5b</internal_id>
+			<name>Бондаренко Ксения Андреевна</name>
+			<first_name>Ксения</first_name>
+			<surname>Бондаренко</surname>
+			<patronymic>Андреевна</patronymic>
+		</doctor>
+		<doctor id="6488b037-4aad-11f1-b077-14ac6050ca7c">
+			<internal_id>6488b037-4aad-11f1-b077-14ac6050ca7c</internal_id>
+			<name>Горлов Дмитрий Игоревич</name>
+			<first_name>Дмитрий</first_name>
+			<surname>Горлов</surname>
+			<patronymic>Игоревич</patronymic>
+		</doctor>
+		<doctor id="2c0c625b-4a8d-11f0-b058-14ac6050ca7c">
+			<internal_id>2c0c625b-4a8d-11f0-b058-14ac6050ca7c</internal_id>
+			<name>Куприкова Людмила Алексеевна</name>
+			<first_name>Людмила</first_name>
+			<surname>Куприкова</surname>
+			<patronymic>Алексеевна</patronymic>
+		</doctor>
+		<doctor id="93907ca8-501e-11f1-b078-14ac6050ca7c">
+			<internal_id>93907ca8-501e-11f1-b078-14ac6050ca7c</internal_id>
+			<name>Магомедов Низами Джабирович</name>
+			<first_name>Низами</first_name>
+			<surname>Магомедов</surname>
+			<patronymic>Джабирович</patronymic>
+		</doctor>
+		<doctor id="d0eab09a-f313-11ee-b04b-14ac6050ca7c">
+			<internal_id>d0eab09a-f313-11ee-b04b-14ac6050ca7c</internal_id>
+			<name>Остащенко Вероника Леонидовна</name>
+			<first_name>Вероника</first_name>
+			<surname>Остащенко</surname>
+			<patronymic>Леонидовна</patronymic>
+		</doctor>
+		<doctor id="019fd63a-0d7b-11f1-b06c-14ac6050ca7c">
+			<internal_id>019fd63a-0d7b-11f1-b06c-14ac6050ca7c</internal_id>
+			<name>Садовская Ольга Владимировна</name>
+			<first_name>Ольга</first_name>
+			<surname>Садовская</surname>
+			<patronymic>Владимировна</patronymic>
+		</doctor>
+		<doctor id="4489cd77-1e6b-11ef-b04c-14ac6050ca7c">
+			<internal_id>4489cd77-1e6b-11ef-b04c-14ac6050ca7c</internal_id>
+			<name>Твердохлиб Ярослав Валериевич</name>
+			<first_name>Ярослав</first_name>
+			<surname>Твердохлиб</surname>
+			<patronymic>Валериевич</patronymic>
+		</doctor>
+		<doctor id="7edd9acf-d078-11ee-b04a-14ac6050ca7c">
+			<internal_id>7edd9acf-d078-11ee-b04a-14ac6050ca7c</internal_id>
+			<name>Фурсов Георгий Юрьевич</name>
+			<first_name>Георгий</first_name>
+			<surname>Фурсов</surname>
+			<patronymic>Юрьевич</patronymic>
+			<url>https://mkdoctorof.ru/members/fursov-georgii-yurevich</url>
+		</doctor>
+		<doctor id="85b07f05-e84a-11ee-b04a-14ac6050ca7c">
+			<internal_id>85b07f05-e84a-11ee-b04a-14ac6050ca7c</internal_id>
+			<name>Чупин Руслан Николаевич</name>
+			<first_name>Руслан</first_name>
+			<surname>Чупин</surname>
+			<patronymic>Николаевич</patronymic>
+		</doctor>
+		<doctor id="36f01dd0-5052-11f1-b078-14ac6050ca7c">
+			<internal_id>36f01dd0-5052-11f1-b078-14ac6050ca7c</internal_id>
+			<name>Шушаев Мухаммед Адильханович</name>
+			<first_name>Мухаммед</first_name>
+			<surname>Шушаев</surname>
+			<patronymic>Адильханович</patronymic>
+		</doctor>
+	</doctors>
+	<clinics>
+		<clinic id="6212d737-ca92-11ee-b04a-14ac6050ca7c">
+			<name>mkdoctorof.ru</name>
+			<url>https://mkdoctorof.ru/</url>
+			<picture>https://mkdoctorof.ru/up/systemsettings/value_file/favikon.svg</picture>
+			<email>mail@mkdoctorof.ru</email>
+			<phone>+7(3462) 98 20 20</phone>
+			<city>г Сургут</city>
+			<address>ул Энгельса Дом 12</address>
+			<internal_id>6212d737-ca92-11ee-b04a-14ac6050ca7c</internal_id>
+			<company_id>51007570097</company_id>
+		</clinic>
+	</clinics>
+	<services>
+		<service id="05fd05c3-d536-11ee-b04a-14ac6050ca7c">
+			<name>Прием (осмотр, консультация) врача-терапевта первичный</name>
+			<gov_id>B01.047.001</gov_id>
+			<internal_id>05fd05c3-d536-11ee-b04a-14ac6050ca7c</internal_id>
+		</service>
+		<service id="22376d46-8ba5-11ef-b050-14ac6050ca7c">
+			<name>тест</name>
+			<internal_id>22376d46-8ba5-11ef-b050-14ac6050ca7c</internal_id>
+		</service>
+		<service id="f7eccdf9-6125-11ef-b04d-14ac6050ca7c">
+			<name>Инъекционное введение лекарственных препаратов в очаг поражения кожи</name>
+			<gov_id>A11.01.010</gov_id>
+			<internal_id>f7eccdf9-6125-11ef-b04d-14ac6050ca7c</internal_id>
+		</service>
+		<service id="b850eae7-f8bb-11ee-b04b-14ac6050ca7c">
+			<name>Прием (осмотр, консультация) врача-косметолога первичный</name>
+			<gov_id>B01.008.003</gov_id>
+			<internal_id>b850eae7-f8bb-11ee-b04b-14ac6050ca7c</internal_id>
+		</service>
+		<service id="1a9cf1fb-0c3a-11ef-b04c-14ac6050ca7c">
+			<name>Прием (осмотр, консультация) врача-травматолога-ортопеда первичный</name>
+			<gov_id>B01.050.001</gov_id>
+			<internal_id>1a9cf1fb-0c3a-11ef-b04c-14ac6050ca7c</internal_id>
+		</service>
+	</services>
+	<offers>
+		<offer id="8b4b4090-3ac5-4051-9651-f9ee92b86dc1">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>10000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="f7eccdf9-6125-11ef-b04d-14ac6050ca7c"/>
+			<clinic id="6212d737-ca92-11ee-b04a-14ac6050ca7c">
+				<doctor id="f1a99c82-f56d-11ee-b04b-14ac6050ca7c">
+					<speciality>косметолог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="02aba8d1-08af-4af7-882e-885155891ffc">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="b850eae7-f8bb-11ee-b04b-14ac6050ca7c"/>
+			<clinic id="6212d737-ca92-11ee-b04a-14ac6050ca7c">
+				<doctor id="c9bbfbc9-4fc4-11ef-b04d-14ac6050ca7c">
+					<speciality>врач общей практики</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="10f08f58-89d6-46e1-9b10-114af222eb1a">
+			<online_schedule>true</online_schedule>
+			<service id="22376d46-8ba5-11ef-b050-14ac6050ca7c"/>
+			<clinic id="6212d737-ca92-11ee-b04a-14ac6050ca7c">
+				<doctor id="7edd9acf-d078-11ee-b04a-14ac6050ca7c">
+					<speciality>косметолог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+	</offers>
+</shop>
