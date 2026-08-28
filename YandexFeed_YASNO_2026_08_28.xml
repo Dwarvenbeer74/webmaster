@@ -1,0 +1,533 @@
+﻿<shop version="2.0" date="2026-08-28 10:55:57">
+	<company>ООО "ЯВ"</company>
+	<name>Ясно Вижу</name>
+	<url>https://yasno-vizhu.com/</url>
+	<picture>https://yasno-vizhu.com/img/logo.svg</picture>
+	<doctors>
+		<doctor id="06d386a2-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a2-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Алюкова Анна Владимировна</name>
+			<first_name>Анна </first_name>
+			<surname>Алюкова </surname>
+			<patronymic>Владимировна</patronymic>
+		</doctor>
+		<doctor id="06d3868e-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d3868e-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Антонюк Сергей Владимирович</name>
+			<first_name>Сергей</first_name>
+			<surname>Антонюк</surname>
+			<patronymic>Владимирович</patronymic>
+			<url>https://yasno-vizhu.com/specialists/antonyuk-sergey-vladimirovich/</url>
+		</doctor>
+		<doctor id="06d3868f-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d3868f-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Ахметова Амина Равилевна</name>
+			<first_name>Амина</first_name>
+			<surname>Ахметова </surname>
+			<patronymic>Равилевна </patronymic>
+		</doctor>
+		<doctor id="06d38690-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38690-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Бегизова Фатима Владимировна</name>
+			<first_name>Фатима</first_name>
+			<surname>Бегизова</surname>
+			<patronymic>Владимировна</patronymic>
+			<url>https://yasno-vizhu.com/specialists/begizova-fatima-vladimirovna/</url>
+		</doctor>
+		<doctor id="06d386a3-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a3-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Белогурова Алёна Вячеславовна</name>
+			<first_name>Алёна</first_name>
+			<surname>Белогурова</surname>
+			<patronymic>Вячеславовна</patronymic>
+			<url>https://yasno-vizhu.com/specialists/belogurova-alyena-vyacheslavovna/</url>
+		</doctor>
+		<doctor id="06d38692-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38692-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Гаврилина Ксения Станиславовна</name>
+			<first_name>Ксения </first_name>
+			<surname>Гаврилина </surname>
+			<patronymic>Станиславовна</patronymic>
+		</doctor>
+		<doctor id="06d386a4-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a4-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Галкина Елизавета Валерьевна</name>
+			<first_name>Елизавета </first_name>
+			<surname>Галкина </surname>
+			<patronymic>Валерьевна</patronymic>
+		</doctor>
+		<doctor id="06d386a6-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a6-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Гуртовая Алена Викторовна</name>
+			<first_name>Алена</first_name>
+			<surname>Гуртовая</surname>
+			<patronymic>Викторовна</patronymic>
+			<url>https://yasno-vizhu.com/specialists/gurtovaya-alena-viktorovna/</url>
+		</doctor>
+		<doctor id="06d386a8-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a8-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Давтян Карина Кареновна</name>
+			<first_name>Карина</first_name>
+			<surname>Давтян</surname>
+			<patronymic>Кареновна</patronymic>
+		</doctor>
+		<doctor id="a7647607-3648-11f0-a992-18c04ded4182">
+			<internal_id>a7647607-3648-11f0-a992-18c04ded4182</internal_id>
+			<name>Диагностика Профсоюзная</name>
+			<first_name>Профсоюзная</first_name>
+			<surname>Диагностика</surname>
+		</doctor>
+		<doctor id="06d386a7-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a7-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Ермакова Кристина Павловна</name>
+			<first_name>Кристина </first_name>
+			<surname>Ермакова </surname>
+			<patronymic>Павловна</patronymic>
+		</doctor>
+		<doctor id="06d386a1-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a1-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Землянская Анна Александровна</name>
+			<first_name>Анна </first_name>
+			<surname>Землянская</surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="06d38693-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38693-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Логвина Анна Юрьевна</name>
+			<first_name>Анна </first_name>
+			<surname>Логвина </surname>
+			<patronymic>Юрьевна</patronymic>
+		</doctor>
+		<doctor id="b68f4ca7-1371-11f0-a98f-18c04ded4182">
+			<internal_id>b68f4ca7-1371-11f0-a98f-18c04ded4182</internal_id>
+			<name>Луговской Артём Евгеньевич</name>
+			<first_name>Артём</first_name>
+			<surname>Луговской</surname>
+			<patronymic>Евгеньевич</patronymic>
+			<url>https://yasno-vizhu.com/specialists/lugovskoy-artyem-evgenevich/</url>
+		</doctor>
+		<doctor id="06d386a9-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a9-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Маджар Вера Георгиевна</name>
+			<first_name>Вера </first_name>
+			<surname>Маджар </surname>
+			<patronymic>Георгиевна</patronymic>
+		</doctor>
+		<doctor id="06d386a5-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a5-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Малахова Алена Валерьевна</name>
+			<first_name>Алена</first_name>
+			<surname>Малахова</surname>
+			<patronymic>Валерьевна</patronymic>
+			<url>https://yasno-vizhu.com/specialists/malakhova-alena-valerevna/</url>
+		</doctor>
+		<doctor id="06d386aa-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386aa-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Матросова Кристина Владимировна</name>
+			<first_name>Кристина </first_name>
+			<surname>Матросова</surname>
+			<patronymic>Владимировна</patronymic>
+		</doctor>
+		<doctor id="2837430a-2cad-11ef-a989-18c04ded4182">
+			<internal_id>2837430a-2cad-11ef-a989-18c04ded4182</internal_id>
+			<name>Медсестра Ватутинки</name>
+			<first_name>Ватутинки</first_name>
+			<surname>Медсестра</surname>
+		</doctor>
+		<doctor id="06d38694-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38694-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Панович Алла Михайловна</name>
+			<first_name>Алла </first_name>
+			<surname>Панович </surname>
+			<patronymic>Михайловна</patronymic>
+		</doctor>
+		<doctor id="06d38695-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38695-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Пилипак Екатерина</name>
+			<first_name>Екатерина</first_name>
+			<surname>Пилипак </surname>
+		</doctor>
+		<doctor id="06d386ab-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386ab-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Ртищева Елена Александровна</name>
+			<first_name>Елена </first_name>
+			<surname>Ртищева</surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="06d38696-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38696-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Семенова Елена Валентиновна</name>
+			<first_name>Елена </first_name>
+			<surname>Семенова </surname>
+			<patronymic>Валентиновна</patronymic>
+		</doctor>
+		<doctor id="06d38697-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38697-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Соколовская Светлана Анатольевна</name>
+			<first_name>Светлана </first_name>
+			<surname>Соколовская </surname>
+			<patronymic>Анатольевна</patronymic>
+		</doctor>
+		<doctor id="06d38698-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38698-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Солодова Наталья Юрьевна</name>
+			<first_name>Наталья </first_name>
+			<surname>Солодова </surname>
+			<patronymic>Юрьевна</patronymic>
+		</doctor>
+		<doctor id="06d3869e-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d3869e-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Струкова Мария Николаевна</name>
+			<first_name>Мария</first_name>
+			<surname>Струкова</surname>
+			<patronymic>Николаевна</patronymic>
+		</doctor>
+		<doctor id="06d38699-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d38699-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Тарелкина Юлия Леонидовна</name>
+			<first_name>Юлия</first_name>
+			<surname>Тарелкина</surname>
+			<patronymic>Леонидовна</patronymic>
+			<url>https://yasno-vizhu.com/specialists/tarelkina-yuliya-leonidovna/</url>
+		</doctor>
+		<doctor id="06d386ac-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386ac-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Тенча Маргарита Джумшудовна</name>
+			<first_name>Маргарита </first_name>
+			<surname>Тенча </surname>
+			<patronymic>Джумшудовна</patronymic>
+		</doctor>
+		<doctor id="06d386ad-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386ad-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Турыгина Наталия Анатольевна</name>
+			<first_name>Наталия</first_name>
+			<surname>Турыгина</surname>
+			<patronymic>Анатольевна</patronymic>
+			<url>https://yasno-vizhu.com/specialists/turygina-nataliya-anatolevna/</url>
+		</doctor>
+		<doctor id="06d3869a-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d3869a-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Филиппова Ольга Сергеевна</name>
+			<first_name>Ольга </first_name>
+			<surname>Филиппова</surname>
+			<patronymic>Сергеевна</patronymic>
+		</doctor>
+		<doctor id="06d3869b-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d3869b-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Фоминых Евгения Александровна</name>
+			<first_name>Евгения </first_name>
+			<surname>Фоминых </surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="06d3869c-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d3869c-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Храмченкова Анна Александровна</name>
+			<first_name>Анна </first_name>
+			<surname>Храмченкова </surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="06d3869f-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d3869f-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Цикаришвили Яна Александровна</name>
+			<first_name>Яна</first_name>
+			<surname>Цикаришвили</surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="06d3869d-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d3869d-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Щелконогова Анна Андреевна</name>
+			<first_name>Анна </first_name>
+			<surname>Щелконогова </surname>
+			<patronymic>Андреевна</patronymic>
+		</doctor>
+		<doctor id="06d386a0-2a3c-11ef-a989-18c04ded4182">
+			<internal_id>06d386a0-2a3c-11ef-a989-18c04ded4182</internal_id>
+			<name>Эшонова Виктория Николаевна</name>
+			<first_name>Виктория</first_name>
+			<surname>Эшонова</surname>
+			<patronymic>Николаевна</patronymic>
+		</doctor>
+	</doctors>
+	<clinics>
+		<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+			<name>Ясно Вижу</name>
+			<url>https://yasno-vizhu.com/</url>
+			<picture>https://yasno-vizhu.com/img/logo.svg</picture>
+			<phone>+7 (495) 1010177</phone>
+			<city>г Москва</city>
+			<address>ул 3-я Нововатутинская Корпус 2 Дом 13</address>
+			<internal_id>c85375f7-298c-11ef-a989-18c04ded4182</internal_id>
+			<company_id>200998099919</company_id>
+		</clinic>
+		<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+			<name>Ясно Вижу</name>
+			<url>https://yasno-vizhu.com/</url>
+			<picture>https://yasno-vizhu.com/img/logo.svg</picture>
+			<phone>+7 (495) 1012025</phone>
+			<city>г Москва</city>
+			<address>ул Профсоюзная Дом 76</address>
+			<internal_id>64bb78fa-2e49-11ef-a98a-18c04ded4182</internal_id>
+			<company_id>196039112145</company_id>
+		</clinic>
+	</clinics>
+	<services>
+		<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182">
+			<name>Комплексная офтальмологическая диагностика с консультацией врача- офтальмолога. Первичный прием.</name>
+			<internal_id>07ab5c19-2cb3-11ef-a989-18c04ded4182</internal_id>
+		</service>
+		<service id="07ab5c18-2cb3-11ef-a989-18c04ded4182">
+			<name>Общая офтальмологическая диагностика с консультацией врача- офтальмолога. Первичный прием.</name>
+			<internal_id>07ab5c18-2cb3-11ef-a989-18c04ded4182</internal_id>
+		</service>
+		<service id="07ab5c22-2cb3-11ef-a989-18c04ded4182">
+			<name>Комплексная офтальмологическая диагностика с консультацией врача- офтальмолога - к.м.н..</name>
+			<internal_id>07ab5c22-2cb3-11ef-a989-18c04ded4182</internal_id>
+		</service>
+		<service id="4ede700d-348b-11ef-a98b-18c04ded4182">
+			<name>Персонализированная офтальмологическая диагностика с консультацией врача- офтальмолога. Первичный прием.</name>
+			<internal_id>4ede700d-348b-11ef-a98b-18c04ded4182</internal_id>
+		</service>
+	</services>
+	<offers>
+		<offer id="c0012834-7293-4ce8-93c3-88e7a27d64aa">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c18-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+				<doctor id="06d3868e-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="dd3ccf9b-5626-498c-a2ea-3a07b6c4e4e3">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c18-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+				<doctor id="06d3868e-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="3f6d6593-0c22-4fc5-8d8b-fa0d59a56764">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+				<doctor id="06d38690-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="69d3b8ce-13f3-42d0-a8f3-2517a7a52e84">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+				<doctor id="06d38690-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="cdc50f9a-a6fa-45c3-9c45-aaa73274b447">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c22-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+				<doctor id="06d386a3-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ef37445b-f4d6-4e7d-9015-2b2b94b34aa8">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c22-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+				<doctor id="06d386a3-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="a22c1eaf-09ab-4531-9c2b-13ac2f8bc0f3">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+				<doctor id="06d386a6-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="d06e79da-e645-48d7-b092-c42d17475ad4">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+				<doctor id="06d386a6-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="c99d3dbd-2b77-42e5-af2c-29f26aa60c49">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+				<doctor id="b68f4ca7-1371-11f0-a98f-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="3d483037-f40f-454f-886c-03424e0f7ed1">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+				<doctor id="b68f4ca7-1371-11f0-a98f-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="e3085661-c566-4bbe-aefd-b935f313d5fa">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>5000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="4ede700d-348b-11ef-a98b-18c04ded4182"/>
+			<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+				<doctor id="06d386a5-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="c1e68d4a-408f-4e6c-ac66-1dc492e2149c">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>5000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="4ede700d-348b-11ef-a98b-18c04ded4182"/>
+			<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+				<doctor id="06d386a5-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="0fd7785c-216b-48c7-b1ed-b892520e6ff3">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+				<doctor id="06d38699-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="19726bcd-5344-4f6f-a8f7-8d39c425cb90">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+				<doctor id="06d38699-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="88e7a0c4-8870-43fa-9c46-19653b4c289f">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="64bb78fa-2e49-11ef-a98a-18c04ded4182">
+				<doctor id="06d386ad-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="122771ad-f3fa-42c8-baa9-4d082385107f">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="07ab5c19-2cb3-11ef-a989-18c04ded4182"/>
+			<clinic id="c85375f7-298c-11ef-a989-18c04ded4182">
+				<doctor id="06d386ad-2a3c-11ef-a989-18c04ded4182">
+					<speciality>офтальмолог (окулист)</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+	</offers>
+</shop>
