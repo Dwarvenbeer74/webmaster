@@ -736,7 +736,7 @@
 	<clinics>
 		<clinic id="b4c29683-4504-11e7-894d-00155d8da705">
 			<name>Медицинский центр Алёнка</name>
-			<url>https://alenkadv.ru/</url>
+			<url>https://alenkadv.ru</url>
 			<picture>https://alenkadv.ru/templates/main/app/img/icons/shortcut.svg</picture>
 			<email>1@mail.ru</email>
 			<phone>8(423)2795725</phone>
@@ -747,7 +747,7 @@
 		</clinic>
 		<clinic id="9b7040a0-450c-11e7-894d-00155d8da705">
 			<name>Медицинский центр Алёнка</name>
-			<url>https://alenkadv.ru/</url>
+			<url>https://alenkadv.ru</url>
 			<picture>https://alenkadv.ru/templates/main/app/img/icons/shortcut.svg</picture>
 			<phone>8(423)2795725</phone>
 			<city>г Владивосток</city>
